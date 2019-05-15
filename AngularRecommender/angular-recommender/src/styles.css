@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.jumbotron {background-image: url("./assets/images/img1.jpeg");
+background-size: 100%;
+border-radius: 0%;
+color: white;
+  text-shadow: 2px 2px 5px black;}
+
+
+.row {margin-bottom: 50px}
