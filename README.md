@@ -22,5 +22,7 @@ Correaltion Flux is design for any food recommendation website, It fetch recomme
 open command line
 Start the Mysql Workbech
 Open Xamp server and click to start mysql server
-Now goto to backenendrecommender file in command line by entering
+Now goto to backenendrecommender file in command line by cd
+enter python app.py
+check that mysql workbench has been connected to mysql server
 
